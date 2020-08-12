@@ -1,0 +1,13 @@
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\bin\Debug\netcoreapp3.1\Varialbes.exe
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\bin\Debug\netcoreapp3.1\Varialbes.deps.json
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\bin\Debug\netcoreapp3.1\Varialbes.runtimeconfig.json
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\bin\Debug\netcoreapp3.1\Varialbes.runtimeconfig.dev.json
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\bin\Debug\netcoreapp3.1\Varialbes.dll
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\bin\Debug\netcoreapp3.1\Varialbes.pdb
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\obj\Debug\netcoreapp3.1\Varialbes.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\obj\Debug\netcoreapp3.1\Varialbes.AssemblyInfoInputs.cache
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\obj\Debug\netcoreapp3.1\Varialbes.AssemblyInfo.cs
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\obj\Debug\netcoreapp3.1\Varialbes.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\obj\Debug\netcoreapp3.1\Varialbes.dll
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\obj\Debug\netcoreapp3.1\Varialbes.pdb
+C:\Users\Piotr\source\repos\Varialbes\Varialbes\obj\Debug\netcoreapp3.1\Varialbes.genruntimeconfig.cache
