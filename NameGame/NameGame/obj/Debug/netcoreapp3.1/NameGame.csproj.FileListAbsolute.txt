@@ -1,0 +1,12 @@
+C:\Users\Piotr\source\repos\NameGame\NameGame\bin\Debug\netcoreapp3.1\NameGame.exe
+C:\Users\Piotr\source\repos\NameGame\NameGame\bin\Debug\netcoreapp3.1\NameGame.deps.json
+C:\Users\Piotr\source\repos\NameGame\NameGame\bin\Debug\netcoreapp3.1\NameGame.runtimeconfig.json
+C:\Users\Piotr\source\repos\NameGame\NameGame\bin\Debug\netcoreapp3.1\NameGame.runtimeconfig.dev.json
+C:\Users\Piotr\source\repos\NameGame\NameGame\bin\Debug\netcoreapp3.1\NameGame.dll
+C:\Users\Piotr\source\repos\NameGame\NameGame\bin\Debug\netcoreapp3.1\NameGame.pdb
+C:\Users\Piotr\source\repos\NameGame\NameGame\obj\Debug\netcoreapp3.1\NameGame.AssemblyInfoInputs.cache
+C:\Users\Piotr\source\repos\NameGame\NameGame\obj\Debug\netcoreapp3.1\NameGame.AssemblyInfo.cs
+C:\Users\Piotr\source\repos\NameGame\NameGame\obj\Debug\netcoreapp3.1\NameGame.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\NameGame\NameGame\obj\Debug\netcoreapp3.1\NameGame.dll
+C:\Users\Piotr\source\repos\NameGame\NameGame\obj\Debug\netcoreapp3.1\NameGame.pdb
+C:\Users\Piotr\source\repos\NameGame\NameGame\obj\Debug\netcoreapp3.1\NameGame.genruntimeconfig.cache
